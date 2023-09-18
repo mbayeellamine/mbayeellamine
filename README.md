@@ -14,16 +14,6 @@ I'm a Fullstack Web Developer based in Japan. I'm passionate about creating web 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a coffee enthusiast ☕
 
-## Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-- 🚀 HTML, CSS, JavaScript
-- 🌐 React, Node.js, Express, Fastapi, Laravel
-- 💻 MongoDB, SQL
-- 🎨 Bootstrap, Tailwind CSS
-- Aws, Azure, Gcp
-
 ## Languages and Tools
 
 Here are some of the languages and tools I work with:
