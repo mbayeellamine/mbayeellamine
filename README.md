@@ -82,4 +82,7 @@ I'm a **Fullstack Web Developer** based in Japan. My passion lies in crafting we
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbayeellamine&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
 I'm always excited to meet new people and collaborate. Let's create some awe-inspiring web experiences together!
