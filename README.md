@@ -36,11 +36,11 @@ I'm a **Fullstack Web Developer** based in Japan. My passion lies in crafting we
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=golang&logoColor=white" alt="GO" />
-  <img src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=fastapi&logoColor=white" alt="FastApi" />
-  <img src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Go-FF61F6?style=flat-square&logo=golang&logoColor=white" alt="GO" />
+  <img src="https://img.shields.io/badge/-Python-FF61F6?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-FastApi-FF61F6?style=flat-square&logo=fastapi&logoColor=white" alt="FastApi" />
+  <img src="https://img.shields.io/badge/-Flask-FF61F6?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Django-FF61F6?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=333333" alt="Linux" />
   <img src="https://img.shields.io/badge/-Materialize-EE6E73?style=flat-square&logo=materialize&logoColor=white" alt="Materialize" />
