@@ -1,5 +1,5 @@
 **👋 Hey there! I'm Lamine** 
-
+![github-user-contribution](https://raw.githubusercontent.com/mbayeellamine/mbayeellamine/main/img/snake.gif)
 <div align="center">
   <img src="https://img.shields.io/github/followers/mbayeellamine?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/twitter/follow/lameeno4?style=social" alt="Twitter Follow" />
